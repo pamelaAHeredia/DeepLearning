@@ -9,3 +9,5 @@ Prácticas resueltas del curso de Deep Learning, optativa de la carrera de Licen
   <li><a href="https://github.com/pamelaAHeredia/DeepLearning/blob/main/P2/deepLearning_Practica2.ipynb">Práctica 2 - Perceptrón </a></li>
   <li><a href="https://github.com/pamelaAHeredia/DeepLearning/blob/main/P3/DeepLearning_Practica3.ipynb">Práctica 3 - Regresión lineal </a></li>
 </ul>
+<li><a href="">Práctica 4 - Multiperceptrón </a></li>
+</ul>
