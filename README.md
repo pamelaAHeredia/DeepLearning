@@ -9,5 +9,7 @@ Prácticas resueltas del curso de Deep Learning, optativa de la carrera de Licen
   <li><a href="https://github.com/pamelaAHeredia/DeepLearning/blob/main/P2/deepLearning_Practica2.ipynb">Práctica 2 - Perceptrón </a></li>
   <li><a href="https://github.com/pamelaAHeredia/DeepLearning/blob/main/P3/DeepLearning_Practica3.ipynb">Práctica 3 - Regresión lineal </a></li>
   <li><a href="https://github.com/pamelaAHeredia/DeepLearning/blob/main/P4/DeepLearning_practica4_parte1.ipynb"> Práctica 4 Parte 1 - Multiperceptrón con SciKit-Learn </a></li>
+  <li><a href="https://github.com/pamelaAHeredia/DeepLearning/blob/main/P4/DeepLearning_practica4_parte2.ipynb"> Práctica 4 Parte 2 - Multiperceptrón con Tensorflow/keras </a></li>
+  <li><a href="">Práctica 5 - Redes Neuronales Convolucionales </a></li>
 </ul>
 
